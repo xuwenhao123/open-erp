@@ -1,8 +1,4 @@
 # 开源外贸ERP供应链系统
-##联系我
-###邮箱
-* firebata@foxmail.com
-
 
 ##更新日志
 
